@@ -3,7 +3,7 @@ title: Nick Gallas
 ---
 I will put the link to the subfolder below:
 - 
-Then delete content below this line.
+### Then delete content below this line.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
