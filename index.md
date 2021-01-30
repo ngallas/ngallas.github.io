@@ -1,4 +1,4 @@
- ---
+---
 title: Nick Gallas
 ---
 
