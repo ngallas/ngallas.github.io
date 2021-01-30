@@ -1,6 +1,5 @@
  ---
 title: Nick Gallas
-description: update description
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
