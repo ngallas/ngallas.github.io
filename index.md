@@ -4,6 +4,8 @@ title: Nick Gallas
 
 I will put the link to the subfolder below:
 
+![View of Delft](/pics/Vermeer View of Delft.jpg)
+
 Then delete content below this line.
 
 
