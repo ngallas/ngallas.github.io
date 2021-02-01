@@ -10,3 +10,6 @@ This is a sample Jupyter Notebook file for the M3 GitHub assignment.
 
 I've included a link to a repository on the Gumroad GitHub page for practice purposes only:
 - [Gumroad Repository](https://github.com/gumroad/wilfred)
+
+Here is a link to my music page on my personal website:
+- [Music Link](/music/index.md)
